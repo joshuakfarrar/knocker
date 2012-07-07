@@ -33,6 +33,8 @@ var knocker = require('knocker')
 
 # API
 
+All methods return $this for easy chaining
+
 ## knocker.setTarget(host)
 
 Use the IP address of the host you want to knock
