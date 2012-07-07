@@ -1,10 +1,8 @@
-knocker
-=======
+# knocker
 
 Knocks on ports if you have something like knockd running.
 
-example
-=======
+## example
 
 On host running knockd:
 
