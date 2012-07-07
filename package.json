@@ -12,7 +12,7 @@
   "optionalDependencies": {},
   "engines": {
     "node": ">=0.6.0"
-  }
+  },
   "license": "MIT",
   "author": {
     "name": "Joshua K. Farrar",
