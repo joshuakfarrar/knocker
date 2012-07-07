@@ -1,0 +1,22 @@
+{
+  "author": "Zipp <joshua@uber1337hax.com> (Joshua K. Farrar)",
+  "name": "knocker",
+  "description": "A port-knocker. It knocks on ports.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zipp/knocker.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.6.0"
+  }
+  "license": "MIT",
+  "author": {
+    "name": "Joshua K. Farrar",
+    "email": "joshua@uber1337hax.com",
+    "url": "http://www.uber1337hax.com"
+  }
+}
