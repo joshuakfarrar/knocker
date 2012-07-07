@@ -25,7 +25,8 @@ Knocker.prototype.knock = function(port_arg) {
 
   // But if we do, we don't want to keep the connection alive
   knocked.on('connect', function () {
-    knocked.close();
+    //console.log("Connected to port " + port_arg);
+    knocked.end();
   });
 
   return this;
